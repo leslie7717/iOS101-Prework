@@ -1,8 +1,8 @@
-# Prework - *Random Coloe Generator*
+# Prework - *Random Color Generator*
 
 Submitted by: **Mingyi Gao**
 
-**Random Coloe Generato** is an app that can change its background color randomly when you click the "Change" button.
+**Random Color Generator** is an app that can change its background color randomly when you click the "Change" button.
 
 Time spent: 3 hours spent in total
 
