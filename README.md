@@ -15,25 +15,30 @@ The following **required** functionality is completed:
 
 ## App Brainstorming
 **Twitter**
- * Very concise comparing to those all-in-one apps.
+ * Very concise compared to those all-in-one apps.
  * The scrolling is smooth and logic is simple.
- * Overall a great social media app despite it's becoming more and more complex with more bugs after becoming X🤣
+ * Overall, it's a great social media app, although it's becoming increasingly complex and bug-prone, especially after becoming X.🤣
+
 **Apple Music**
- * Also like twitter, it's a light app with focused functionalities.
- * Very nice UI and UX design. Not too fancy and it's easy to get started.
+ * Similar to Twitter, it's a lightweight app with focused functionalities.
+ * The UI and UX design are very nice - not too fancy, and it's easy to get started.
  * No ads is a big plus.
+
 **Amex**
- * The UI design is more modern than some other financial apps like BoA.
+ * Its UI design is more modern compared to other financial apps like BoA.
  * The loading of pages is quite fast.
- * Have't found any bugs.
+ * I have't found any bugs.
+
 **Gmail**
  * Simple and easy to use.
- * The UX design is much better than Microsoft products. I cannot quantify the experience but I'm just feeling smooth when using Google apps comparing to MSFT apps.
+ * The UX design is much better than that of Microsoft products. I can't quantify the experience, but using Google apps feels smoother compared to Microsoft apps.
 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I had a problem connecting a button to logic. At first I did't create an `@IBAction`, so it did't function as expected. After I deleted the old one and correctly created an `@IBAction`, it encountered an error. Initially, I was stuck. After thoroughly going through the guide, I realized that the error might be caused by the connection - the old code was deleted, but its connection was still there. So I deleted the old connection in the Connection Inspector. Finally, it ran without errors or bugs and it's functioning as expected.
 
 ## License
 
